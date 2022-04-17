@@ -1,0 +1,44 @@
+body {
+  background: #130f40;
+}
+h1.text-center.text-capitalize {
+  color: #30336b;
+  font-size: 57px;
+  margin: 53px 0px;
+}
+.input-box {
+  background: linear-gradient(to right bottom, #780979, #090979);
+}
+select {
+  word-wrap: normal;
+  background: #0c0a29;
+  color: #4a4d85;
+  padding: 5px 11px;
+  font-size: 23px;
+  border-radius: 10px;
+}
+input#first_color {
+  width: 80px;
+  height: 40px;
+}
+input#second_color {
+  width: 80px;
+  height: 40px;
+}
+.bg-light {
+  background: linear-gradient(to right bottom, #780979, #090979);
+  height: 100%;
+}
+h3#final_color {
+  color: black;
+}
+.ssss {
+  padding: 5px 12px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+a#btn1 {
+  color: black;
+  font-weight: 700;
+}
